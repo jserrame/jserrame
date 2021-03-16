@@ -9,6 +9,6 @@
 
 # Languages and Projects
 * I'm currently learning R at my school because it is a required course in my program. 
-* Right now I'm working on this [dataset](https://www.donneesquebec.ca/recherche/dataset/vmtl-rsma-qualite-de-l-eau-en-rive-qualo) recommended by [Jérémie](https://github.com/Jeremieauger), one of the mentors at 100 jours de Ran.donée.
-  * This project is about predicting water quality levels on the shores of the larger Montreal island which can be relevant for summer activities such as kayaking, paddling, and fishing.
+* Right now I'm working on this [dataset](https://data.ontario.ca/dataset/ontario-lake-partner/resource/1a36234b-3b97-451c-8965-0050e7f283cf) for my class assignment
+  * This project is about cleaning performing data quality check and coming up with a technique to arrive at a data flag for these data.
 
